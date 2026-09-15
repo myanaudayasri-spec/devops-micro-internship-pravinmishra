@@ -84,7 +84,7 @@ Learning from mistakes helps me improve my results
 
 ### Evidence from my life
 
-
+when i made mistakes while completing tasks i reviewed what went wrong and tried again after correcting my mistakes i was able to perform better and avoid repeating the same errors 
 ---
 
 # Assignment 3. What does your 2.0 version look like?
