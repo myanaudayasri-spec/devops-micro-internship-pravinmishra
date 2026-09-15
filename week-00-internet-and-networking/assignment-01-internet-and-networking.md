@@ -214,7 +214,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](![![Uploading Screenshot 2026-09-15 104045.png…]()
+![VS Code Setup Screenshot](<img width="1322" height="526" alt="Screenshot 2026-09-15 104045" src="https://github.com/user-attachments/assets/fd337045-9084-480b-a6f7-628da2c97e27" />
+]()
 
 
 
