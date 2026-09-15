@@ -360,15 +360,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized i learn best when i do hands on instead of just watching videos when i actually type commands and break things i understand faster 
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get stuck in tutorial loop and procrastinate when topic feels too big I also check my phone every 10-15 mins which breaks my focus 
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Daily deep work:7:00 AM-8:30 AM-1 hour learning +30mins hands-on practice without phone and will journal my learnings at 9 pm for 10 mins 
 
 ### LinkedIn Post
 
