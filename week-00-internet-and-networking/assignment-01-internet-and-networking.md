@@ -176,8 +176,9 @@ In **50–100 words**, explain in your own words:
 2. Which DNS record type should be used to connect the domain to the given IP, and why?
 
 ## Answer
+DNS (Domain Name System) is like the Internet’s phonebook. It converts easy-to-remember domain names, such as example.com, into IP addresses that computers use to locate websites. To connect a domain directly to a given IPv4 address, an A record should be used because it maps a domain name to an IPv4 address. If the given IP is an IPv6 address, an AAAA record should be used instead. This allows users to access the website using its domain name rather than remembering a numerical IP address.Paste the full text of your LinkedIn post here:
 
-Add your answer here...
+
 
 ---
 
