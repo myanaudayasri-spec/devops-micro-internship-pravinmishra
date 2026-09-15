@@ -282,8 +282,50 @@ https://www.linkedin.com/in/myana-udayasri-5a377b434/
 ---
 
 ## LinkedIn Post Backup Copy
+ My DevOps Learning Journey — Tasks 1–5
+ 
+I’m excited to share my progress as part of the DevOps Micro Internship!
+ 
+🤖 ChatGPT
+ 
+I learned how ChatGPT can act as a learning assistant. I used a detailed beginner-friendly prompt to understand networking protocols with simple real-life examples.
+ 
+🌐 Internet & Networking
+ 
+I learned how users around the world can access a website hosted in Finland. Key concepts I explored included packet switching, IP addresses, TCP/IP, HTTP, and HTTPS.
+ 
+🏗️ App Architecture
+ 
+I explored the difference between two-tier and three-tier application architectures.
+ 
+A two-tier architecture consists of:
+ Frontend → Database
+ 
+A three-tier architecture consists of:
+ Frontend → Backend → Database
+ 
+I also learned about technologies such as React, Node.js, MySQL, and PostgreSQL.
+ 
+🌍 DNS
+ 
+I learned that DNS works like the Internet’s phonebook by translating domain names into IP addresses. For an IPv4 address such as 52.172.142.222, an A record can be used to connect the domain to the server.
+ 
+💻 VS Code Setup
+ 
+I set up my Visual Studio Code environment, opened the integrated terminal, ran basic commands, and explored the editor theme and development environment.
+ 
+This hands-on work helped me understand some of the fundamental concepts behind DevOps, networking, application architecture, and web applications.
+ 
+I’m looking forward to continuing this journey and building more practical skills! 🚀
 
-Paste the full text of your LinkedIn post here:
+A big thank you to @PravinMishra(https://lnkd.in/dk9PJE2i @Anjana Muthunayake(https://lnkd.in/dctpdgT8 guiding learners through this amazing DevOps journey
+ 
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/ddDp3fya · Start your DevOps journey: https://lnkd.in/dmWU6HgS
+
+
+
+
+
 
 
 
@@ -293,19 +335,19 @@ Paste the full text of your LinkedIn post here:
 
 ### What did you find easy?
 
-Add your answer here...
+understanding basics of internet how ip addresses and http https work was easy the videos and docs were beginners friendly
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+initially understanding how dns resolution tcp handshake and difference between public vs private ip works was a bit difficult also remembering osi vs tcp ip layers
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+next week i will practice more hands on with networking commands like ping traceroute nslookup ipconfig and revise osi model daily to improve my fundamentals 
 
 ---
 
