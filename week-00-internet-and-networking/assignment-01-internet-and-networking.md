@@ -36,7 +36,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I am completely new to DevOps and networking. Please explain what a protocol is in networking in very simple, beginner-friendly language.
 
 ---
 
@@ -60,8 +60,8 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
+Packet switching is a method of sending data across a network by dividing it into small packets. Each packet can travel through different routes and is reassembled at the destination. An IP address is a unique numerical label assigned to a device on a network, allowing data to be delivered to the correct destination. TCP/IP is a set of communication protocols that enables devices to exchange data over the Internet. TCP ensures that data is delivered reliably and in the correct order, while IP handles addressing and routing. HTTP (Hypertext Transfer Protocol) is used to transfer web pages and other information between browsers and servers. HTTPS is the secure version of HTTP, using encryption to protect data and communication from unauthorized access
 
-Add your answer here...
 
 ---
 
@@ -93,7 +93,40 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](TWO-TIER
+ ┌───────────────┐
+ │   FRONTEND    │
+ │ HTML / CSS /  │
+ │  JavaScript   │
+ └───────┬───────┘
+         │
+         ↓
+ ┌───────────────┐
+ │   DATABASE    │
+ │    MySQL      │
+ │  PostgreSQL   │
+ └───────────────┘
+
+
+    THREE-TIER
+ ┌───────────────┐
+ │   FRONTEND    │
+ │ React / HTML  │
+ └───────┬───────┘
+         │
+         ↓
+ ┌───────────────┐
+ │    BACKEND    │
+ │ Node.js /     │
+ │    Python     │
+ └───────┬───────┘
+         │
+         ↓
+ ┌───────────────┐
+ │   DATABASE    │
+ │ MySQL /       │
+ │  PostgreSQL   │
+ └────────────
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
