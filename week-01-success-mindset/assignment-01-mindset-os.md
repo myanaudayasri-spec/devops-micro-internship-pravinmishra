@@ -55,11 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+consistent practice improves my performance 
 
 ### Evidence from my life
 
-Add your answer here...
+I tried studying and completing tasks regularly instead of waiting until the last moment.
+I noticed that I understood the work better and felt less stressed when I worked consistently.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a difficult task into smaller steps makes it easier to complete
 
 ### Evidence from my life
 
-Add your answer here...
+When I faced a difficult assignment i divided it into  smaller tasks and completed them one by one This is helped me stay focused and finish the assignment without feeling overhelmed
 
 ---
 
@@ -79,11 +80,10 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Learning from mistakes helps me improve my results 
 
 ### Evidence from my life
 
-Add your answer here...
 
 ---
 
