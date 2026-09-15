@@ -137,18 +137,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS 
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* nest.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* SQL
+* MYSQL
 
 ---
 
