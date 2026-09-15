@@ -214,7 +214,9 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](![Uploading Screenshot 2026-09-15 104045.png…]()
+![VS Code Setup Screenshot](![![Uploading Screenshot 2026-09-15 104045.png…]()
+
+
 
 
 
