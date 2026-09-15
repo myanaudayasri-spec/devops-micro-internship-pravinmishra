@@ -274,7 +274,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/in/myana-udayasri-5a377b434/
 
 ```text
 Add your URL here...
