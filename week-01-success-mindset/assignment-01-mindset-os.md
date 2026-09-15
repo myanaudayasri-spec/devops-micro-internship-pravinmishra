@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that being busy does not mean you are being productive. Many people around me believe that working for long hours is the main sign of hard work and success. I disagree. I think working intelligently, learning continuously, and focusing on the right things matter more than simply spending more hours. In technology especially, knowing how to solve problems is more valuable than memorizing everything. I also believe that failure is not something to avoid; it is one of the fastest ways to understand what needs to improve. I would rather make mistakes while learning and keep improving than stay comfortable and never challenge myself.
 
 ---
 
