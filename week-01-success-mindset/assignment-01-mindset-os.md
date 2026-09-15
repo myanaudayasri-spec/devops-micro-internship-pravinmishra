@@ -153,7 +153,25 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+Three to seven years later, I had become a confident and skilled DevOps engineer who had transformed my early interest in technology into a professional career. What started with small experiments, assignments, and learning challenges had grown into a strong portfolio of real-world projects, technical contributions, and continuous learning.
+
+During those years, I built and deployed several projects that demonstrated my practical understanding of DevOps. I worked with Linux, Git, GitHub, Docker, CI/CD pipelines, cloud platforms, and infrastructure automation. Instead of only learning concepts theoretically, I applied them by building projects, troubleshooting failures, documenting solutions, and improving my workflows.
+
+My GitHub profile had become a record of that progress. It contained projects with clear documentation, deployment instructions, automation scripts, and regularly updated code. I had shipped applications using automated CI/CD pipelines and learned how to monitor, debug, and improve deployments. These projects gave me concrete proof of my technical skills and showed how much I had progressed from my starting point.
+
+I also built a professional portfolio that brought together my projects, certifications, technical skills, and learning journey. I published technical articles and project explanations on topics related to DevOps, cloud computing, automation, and problem-solving. Writing about what I learned helped me understand technical concepts more deeply and also allowed other beginners to learn from my experiences.
+
+As my skills developed, I earned relevant certifications and used them to strengthen my understanding of cloud and DevOps technologies. I contributed to open-source projects and participated in technical communities where I shared knowledge, discussed problems, and learned from other engineers.
+
+Professionally, I had moved into a DevOps or cloud engineering role where I worked on real systems and collaborated with development and operations teams. I contributed to improving deployment processes, reducing repetitive manual work, and making applications more reliable. I had also taken responsibility for guiding newer learners and helping teammates solve technical problems.
+
+The biggest change was not just my job title or technical knowledge. I had developed a stronger mindset. I became comfortable with failure, treated mistakes as feedback, and consistently turned problems into learning opportunities. My 2.0 version was someone who did not wait to feel completely ready before taking action.
+
+Looking back, the engineer I became was built through hundreds of small actions: learning, practicing, building, breaking, fixing, documenting, and sharing. My GitHub, portfolio, certifications, projects, and professional experience became visible evidence of that journey. I had turned ambition into measurable progress and curiosity into a career.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/-myanaudayasri.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+
+#DMIByPravinMishra #AgenticAI #DevOps
 
 ### Public Link
 
@@ -363,7 +381,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **ADD LINK HERE**
 
 ---
 
