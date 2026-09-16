@@ -329,7 +329,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* **Monday–Thursday:** 60 minutes of focused learning and DevOps practice
+* **Friday:** 30 minutes to revise what I learned during the week
+* **Saturday:** 1–2 hours for the DMI session, assignments, and hands-on practice
+* **Sunday:** 30 minutes for weekly review, planning, and setting goals for the next week
+
+I will stay consistent with this routine for the next 5 months and focus on making steady progress rather than trying to do everything at once.
+
 
 ---
 
