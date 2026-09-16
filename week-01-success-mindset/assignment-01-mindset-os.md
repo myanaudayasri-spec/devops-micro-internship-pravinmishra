@@ -308,7 +308,10 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes**
+
+I completed the brain dump in my notebook and wrote down the tasks, responsibilities, worries, goals, pending work, messages, and ideas that were on my mind.
+
 
 ---
 
