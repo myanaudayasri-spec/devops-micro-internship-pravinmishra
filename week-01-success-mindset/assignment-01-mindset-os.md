@@ -390,7 +390,8 @@ Daily deep work:7:00 AM-8:30 AM-1 hour learning +30mins hands-on practice withou
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/myana-udayasri-5a377b434_dmibypravinmishra-agenticai-devops-activity-7505883169771102209-KZTz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG2_mIsBl5zqUhnb4foBwQAI-65I9hhyWOA
+
 
 ---
 
