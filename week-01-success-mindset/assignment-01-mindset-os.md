@@ -396,7 +396,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- https://www.linkedin.com/posts/myana-udayasri-5a377b434_dmibypravinmishra-agenticai-devops-activity-7505883169771102209-KZTz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG2_mIsBl5zqUhnb4foBwQAI-65I9hhyWOA
 - Blog / Medium : **ADD LINK HERE**
 
 ---
