@@ -348,7 +348,7 @@ I will do my DMI work Monday to Friday from 7:00 PM to 9:00 PM. I will use this 
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will attend 3 sessions per week and make sure to participate consistently and complete the required tasks.
 
 ---
 
