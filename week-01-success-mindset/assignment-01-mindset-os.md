@@ -343,7 +343,8 @@ I will stay consistent with this routine for the next 5 months and focus on maki
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I will do my DMI work Monday to Friday from 7:00 PM to 9:00 PM. I will use this time for focused learning, completing assignments, practicing DevOps skills, and reviewing my progress.
+
 
 #### How Many Sessions Per Week?
 
