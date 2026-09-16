@@ -362,7 +362,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone: Keep my phone on silent and away from my workspace while studying or working.
+Social Media: Avoid social media during focused work sessions and check it only during scheduled breaks.
+Environment: Keep my workspace clean, organized, and free from unnecessary distractions.
+Notifications: Turn off non-essential notifications from apps and websites.
+Focus Time: Work on one task at a time and avoid unnecessary multitasking.
+Breaks: Take short, planned breaks instead of randomly checking my phone or browsing the internet.
+Entertainment: Watch videos, play games, or use entertainment apps only after completing my planned tasks.
 
 ---
 
