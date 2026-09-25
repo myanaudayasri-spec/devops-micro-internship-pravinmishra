@@ -96,7 +96,8 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
+
 
 `Add your URL here`
 
