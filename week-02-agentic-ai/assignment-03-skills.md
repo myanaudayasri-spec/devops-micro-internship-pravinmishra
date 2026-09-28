@@ -42,7 +42,8 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/877fff0e-25c2-4795-b6fb-bfbe4fb53955" />
+
 
 ---
 
