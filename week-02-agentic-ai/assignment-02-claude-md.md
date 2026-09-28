@@ -52,7 +52,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+<img width="1305" height="1198" alt="Screenshot 2026-09-28 205806" src="https://github.com/user-attachments/assets/26989fe8-d0c2-4548-be4a-49a938e1766e" />
+
 
 ---
 
