@@ -97,7 +97,7 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 ## GitHub Repository URL
 
-myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
+https://github.com/myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
 
 
 https://github.com/myanaudayasri-spec/devops-micro-internship-pravinmishra
