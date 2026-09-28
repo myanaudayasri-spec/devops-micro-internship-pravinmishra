@@ -57,7 +57,8 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+<img width="1908" height="1198" alt="image" src="https://github.com/user-attachments/assets/fd88e13b-905f-46f7-81aa-b5ee8e0f7bde" />
+
 
 ---
 
