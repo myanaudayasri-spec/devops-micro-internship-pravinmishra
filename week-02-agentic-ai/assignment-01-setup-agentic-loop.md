@@ -100,7 +100,7 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
 
 
-`myanaudayasri-spec/devops-micro-internship-pravinmishra
+https://github.com/myanaudayasri-spec/devops-micro-internship-pravinmishra
 
 
 ---
