@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics |✅ Completed| ✅ Solved | https://https://
  |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/in/myana-udayasri-5a377b434/|https://medium.com/@myanaudayasri/my-week-1-devops-journey-building-my-mindset-os-accc0a06d04d?sharedUserId=myanaudayasri|
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code |✅ Completed | ✅ Solved| — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
@@ -147,11 +147,11 @@ This is not a course. It is an internship-style program — real deployments, re
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
-**Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
+**Assignment:** ⏳ Pending &nbsp;|&nbsp;
+## Certificate of Completion ✅ Solved
 
 ---
 
-## Certificate of Completion
 
 *Awarded upon completing Week 13 — Final Project.*
 
