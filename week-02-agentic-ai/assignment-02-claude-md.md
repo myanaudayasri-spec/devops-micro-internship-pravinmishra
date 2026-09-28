@@ -20,7 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-<img width="253" height="334" alt="Screenshot 2026-09-26 213945" src="https://github.com/user-attachments/assets/aef119c4-a6f7-4983-940b-0200a341a697" />
+<img width="1751" height="1172" alt="image" src="https://github.com/user-attachments/assets/84349504-e0aa-4fe6-a403-4457637f236e" />
+
 
 
 
