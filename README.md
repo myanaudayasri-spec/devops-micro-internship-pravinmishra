@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅ Completed| ✅ Solved | https://https://
  |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/in/myana-udayasri-5a377b434/|https://medium.com/@myanaudayasri/my-week-1-devops-journey-building-my-mindset-os-accc0a06d04d?sharedUserId=myanaudayasri|
+| 01 | Success Mindset | ✅ Completed | ✅ Solved| https://https://lnkd.in/p/dzR4ewgS//medium.com/@myanaudayasri/my-week-1-devops-journey-building-my-mindset-os-accc0a06d04d?sharedUserId=myanaudayasri|
 | 02 | Agentic AI with Claude Code |✅ Completed | ✅ Solved| https://www.linkedin.com/in/myana-udayasri-5a377b434/ | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
