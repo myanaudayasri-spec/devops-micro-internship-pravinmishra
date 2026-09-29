@@ -41,7 +41,7 @@ Add your answer here...
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The cost optimizer uses Haiku because its tasks are primarily focused on cost-efficient, relatively straightforward analysis. Haiku is faster and less expensive than Sonnet, making it a better fit when the agent does not need Sonnet’s higher reasoning capability. This helps reduce overall model usage costs while still being sufficient for the optimizer’s role.
 
 ---
 
