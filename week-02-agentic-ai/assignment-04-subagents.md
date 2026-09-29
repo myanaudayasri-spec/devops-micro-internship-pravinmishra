@@ -55,7 +55,8 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1180" height="1068" alt="image" src="https://github.com/user-attachments/assets/7b85d7ac-8419-46a9-9438-73fac993010a" />
+
 
 ---
 
