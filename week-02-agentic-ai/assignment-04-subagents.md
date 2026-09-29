@@ -62,7 +62,8 @@ Add your answer here...
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1127" height="1081" alt="image" src="https://github.com/user-attachments/assets/c26237ff-973a-4a49-a79b-f293c507a5e0" />
+
 
 ---
 
