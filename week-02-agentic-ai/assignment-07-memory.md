@@ -105,7 +105,7 @@ https://lnkd.in/p/dtFxPMYU
 
 https://github.com/myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
 
-`Add your URL here`
+https://github.com/myanaudayasri-spec/devops-micro-internship-pravinmishra
 
 ---
 
