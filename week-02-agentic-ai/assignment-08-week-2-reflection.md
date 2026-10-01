@@ -87,7 +87,7 @@ LinkedIn Post Content (copy-paste here):
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/dx5bFzZY
 
 ---
 
