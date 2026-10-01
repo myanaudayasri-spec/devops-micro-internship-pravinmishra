@@ -46,7 +46,8 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+<img width="1905" height="1082" alt="image" src="https://github.com/user-attachments/assets/c8dbf4e2-538c-4859-9d89-bb63ea74752a" />
+
 
 ---
 
