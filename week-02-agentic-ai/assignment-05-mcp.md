@@ -95,7 +95,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
 
 `Add your URL here`
 
