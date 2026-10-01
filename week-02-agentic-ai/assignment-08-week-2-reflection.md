@@ -56,7 +56,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@myanaudayasri/reflection-week-2-4f9159d53481?postPublishedType=initial
 
 ---
 
