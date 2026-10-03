@@ -28,7 +28,8 @@ At this stage, you need an account to practice AWS hands-on and create the resou
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier is a program from Amazon Web Services that lets new AWS customers use certain AWS services for free within specified usage limits.
+For new AWS accounts, the current Free Tier generally provides free usage for up to 12 months for eligible services, while some services have always-free offers that continue beyond the first year. The exact services, limits, and duration vary by service and account eligibility.
 
 ---
 
