@@ -81,11 +81,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
+- [✅] All required screenshots added to repository
 
 ---
 
