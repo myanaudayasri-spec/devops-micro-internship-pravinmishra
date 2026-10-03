@@ -35,13 +35,13 @@ For new AWS accounts, the current Free Tier generally provides free usage for up
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Amazon S3 – 5 GB of Standard storage, 20,000 GET requests, and 2,000 PUT requests per month for new customers for one year. 
+1. Amazon S3 – 5 GB of Standard storage, 20,000 GET requests, and 2,000 PUT requests per month for new customers for one year. 
 Amazon Web Services, Inc.
 
-AWS Lambda – 1 million free requests and 400,000 GB-seconds of compute time per month. 
+2. AWS Lambda – 1 million free requests and 400,000 GB-seconds of compute time per month. 
 AWS Documentation
 
-Amazon EC2 – Eligible instance usage includes up to 750 hours per month under applicable Free Tier offers; the exact offer depends on when the AWS account was created. 
+3. Amazon EC2 – Eligible instance usage includes up to 750 hours per month under applicable Free Tier offers; the exact offer depends on when the AWS account was created. 
 AWS Documentation
 
 
