@@ -355,9 +355,8 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually executed the recovery command to restart the Nginx service. This restored the web server after the health checks showed that it was unavailable.
 
----
 
 **2. What evidence proves that the service recovered?**
 
