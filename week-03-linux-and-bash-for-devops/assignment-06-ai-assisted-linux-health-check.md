@@ -152,9 +152,8 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of the health-check functions that the script needs to run. Each element represents a different check, such as checking a service or verifying that a required port is available.
 
----
 
 **2. How does the `for` loop use that array?**
 
