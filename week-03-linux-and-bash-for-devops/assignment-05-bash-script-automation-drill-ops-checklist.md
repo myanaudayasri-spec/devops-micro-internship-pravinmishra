@@ -123,9 +123,7 @@ A variable in Bash is a named place used to store a value, such as text, numbers
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
-
----
+Bash does not allow spaces around the = sign when assigning a value to a variable. For example, name="John" is correct, while name = "John" is interpreted as a command and causes an error.
 
 **3. How do you access the value stored inside a Bash variable?**
 
