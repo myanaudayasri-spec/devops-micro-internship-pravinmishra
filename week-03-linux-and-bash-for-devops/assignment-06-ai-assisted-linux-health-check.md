@@ -400,9 +400,8 @@ The Bash health-check report showed failures in the Nginx service check, HTTP po
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The most likely cause was that the Nginx service had stopped or was no longer running correctly, which prevented the application from serving HTTP traffic.
 
----
 
 **4. Human-Approved Recovery Action**
 
