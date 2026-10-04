@@ -261,9 +261,8 @@ Storing file and directory paths in variables makes scripts easier to read, upda
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+If the file does not exist, the -f condition returns false. The script can then use an else statement or another condition to display a message or handle the missing file appropriately.
 
----
 
 # Task 7 — Conditionals: Pass or Retry Script
 
