@@ -317,9 +317,8 @@ I identified the root cause of the failure, corrected the faulty code or configu
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would use proper testing and code reviews before deployment, along with automated tests for important and edge-case scenarios. I would also add logging, monitoring, and alerts so that failures can be detected quickly. Using safe deployment practices such as staging environments, backups, and rollback procedures would further reduce the impact of similar issues in production.
 
----
 
 # Task 8 — Security & Reliability Review
 
