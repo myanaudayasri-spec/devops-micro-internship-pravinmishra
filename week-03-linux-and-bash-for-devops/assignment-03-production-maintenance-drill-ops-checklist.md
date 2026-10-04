@@ -330,11 +330,10 @@ Review and reflect on the security and reliability practices applied during this
 
 Answer the following in your own words:
 
-**1. Why is SSH key-based authentication more secure than sharing passwords?**
+**1. Why is SSH Key-based authentication more secure than sharing passwords?
 
-Write your answer here.
+ Why is SSH key-based authentication more secure than sharing passwords?**SSH key-based authentication is more secure because it uses a cryptographic key pair instead of relying on a password that can be guessed, reused, or stolen. The private key remains securely with the user, while the server stores only the public key. This makes unauthorized access much more difficult, especially when the private key is protected with a passphrase.
 
----
 
 **2. Why should only required ports be open on a production server?**
 
