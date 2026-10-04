@@ -36,9 +36,8 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The systemctl status nginx command shows that the Nginx service is active and running. A status such as “active (running)” confirms that Nginx is currently working.
 
----
 
 **2. What proves that the server is listening for HTTP traffic?**
 
