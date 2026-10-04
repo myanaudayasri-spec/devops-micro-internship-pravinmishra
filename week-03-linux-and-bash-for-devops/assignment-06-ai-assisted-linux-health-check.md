@@ -381,7 +381,7 @@ A chatbot mainly provides answers based on the conversation, while an agentic wo
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** myana udayasri
 
 **Date:** DD/MM/YYYY
 
@@ -389,13 +389,12 @@ Fill in all seven sections below in your own words.
 
 **1. Reported Symptom**
 
-Add your answer here.
+The web application was not available to users. The health checks indicated that Nginx was unavailable and HTTP traffic was not being served normally.
 
----
 
 **2. Evidence Collected**
 
-Add your answer here.
+The web application was not available to users. The health checks indicated that Nginx was unavailable and HTTP traffic was not being served normally.
 
 ---
 
