@@ -206,9 +206,7 @@ The overall status of the healthy baseline is HEALTHY. All the required services
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
-
----
+The Linux evidence is that Nginx is shown as active (running) with systemctl status nginx, and the ss -tuln command shows the server listening on port 80. These checks confirm that the web server is running and ready to accept HTTP traffic.
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
