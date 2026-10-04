@@ -304,9 +304,8 @@ The evidence is that the Nginx service was not shown as active (running), and th
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No, Claude did not execute the recovery command. The command had to be run by a human. This is important because restarting a service can affect a live system, so requiring human approval provides a safety and authorization step before making a production change.
 
----
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
