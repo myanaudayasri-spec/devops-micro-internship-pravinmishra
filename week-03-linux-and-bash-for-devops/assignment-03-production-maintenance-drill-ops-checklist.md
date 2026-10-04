@@ -352,9 +352,9 @@ Publicly sharing secrets, private keys, passwords, or other credentials can allo
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Unused cloud resources should be stopped or terminated to avoid unnecessary costs and reduce security risks. Resources that remain active can continue consuming money and may become targets for unauthorized access. Removing them also keeps the cloud environment cleaner and easier to manage.
 
----
+
 
 # LinkedIn Post (Required)
 
