@@ -195,9 +195,8 @@ CPU/load looks the most critical right now because high CPU usage or system load
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full on a production server, the system may not be able to write new files, logs, or temporary data. This can cause applications and services such as Nginx to fail or behave unexpectedly, potentially making the website unavailable. It should be addressed quickly by freeing space or increasing disk capacity.
 
----
 
 # Task 5 — Configuration & Deployment Verification
 
