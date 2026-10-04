@@ -357,9 +357,8 @@ A function in Bash is a named block of commands that is created to perform a par
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions make scripts more organized and easier to manage. They allow us to reuse the same commands without writing them repeatedly and make it easier to find and fix problems.
 
----
 
 **3. Which functions did you create in this script?**
 
