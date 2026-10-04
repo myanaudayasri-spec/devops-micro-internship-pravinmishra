@@ -142,9 +142,9 @@ No, there were no recent errors in the error log during my check. An empty or cl
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+If there were no errors, it indicates that the system was running normally during the check. There were no recent problems reported in the logs, so the services appeared to be functioning as expected.
 
----
+
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
