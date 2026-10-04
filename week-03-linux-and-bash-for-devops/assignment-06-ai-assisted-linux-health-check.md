@@ -249,9 +249,8 @@ The skill has Bash, Read, and Grep because it is designed to inspect and diagnos
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+disable-model-invocation: true prevents the model from automatically triggering the skill on its own. This is useful because system health checks should be intentionally requested by a human, giving the user control over when the diagnostic process runs.
 
----
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
