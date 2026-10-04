@@ -89,9 +89,9 @@ chmod +x gives the script execute permission. Without this permission, the scrip
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh runs the script directly, so the system uses the interpreter specified in the shebang, such as #!/bin/bash. It also requires the script to have execute permission.
 
----
+bash script.sh explicitly starts Bash and passes the script to it, so execute permission is not required and the shebang is not used to choose the interpreter.
 
 # Task 3 — Variables: User Information Script
 
