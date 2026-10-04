@@ -461,8 +461,8 @@ Paste the URL of your GitHub folder or repository containing the assignment file
 
 # Completion Checklist
 
-- [ ] Task 1: Healthy baseline confirmed, workspace created (Screenshots 1–2, Notes answered)
-- [ ] Task 2: CLAUDE.md created with all four sections (Screenshot 3, Notes answered)
+- [✅] Task 1: Healthy baseline confirmed, workspace created (Screenshots 1–2, Notes answered)
+- [✅] Task 2: CLAUDE.md created with all four sections (Screenshot 3, Notes answered)
 - [ ] Task 3: Five-check plan produced by Claude using read-only tools (Screenshot 4, Notes answered)
 - [ ] Task 4: `linux-triage.sh` created, syntax validated, executable permission set (Screenshots 5–8, Notes answered)
 - [ ] Task 5: Healthy-state report generated with no FAIL result (Screenshots 9–10, Notes answered)
