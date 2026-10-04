@@ -410,9 +410,8 @@ After reviewing the evidence, the recovery action was manually approved and exec
 
 **5. Verification**
 
-Add your answer here.
+After the recovery action, the health checks were run again. Nginx was active and running, the HTTP port was listening, and the application was responding normally.
 
----
 
 **6. Safety Decision**
 
