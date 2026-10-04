@@ -160,9 +160,8 @@ An array in Bash is a variable that can store multiple values under one name. Ea
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays are useful because they allow a script to store and manage multiple related values together. This makes it easier to process a list of items without creating a separate variable for each one.
 
----
 
 **3. What does `"${tools[@]}"` mean?**
 
