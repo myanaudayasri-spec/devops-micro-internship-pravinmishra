@@ -73,9 +73,9 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
 
----
+
+
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
