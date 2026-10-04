@@ -69,9 +69,8 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should receive project-specific operational rules so it understands the correct procedures, limitations, and safety requirements for that particular environment. This helps it give relevant recommendations and avoid suggesting actions that could be unsafe or inappropriate for the project.
 
----
 
 **2. Why is the human required to execute the recovery command?**
 
