@@ -337,9 +337,8 @@ Answer the following in your own words:
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only the ports needed by the application should be open because every open port can potentially provide an entry point for attackers. Closing unnecessary ports reduces the attack surface and limits the number of services that can be targeted or exploited.
 
----
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
