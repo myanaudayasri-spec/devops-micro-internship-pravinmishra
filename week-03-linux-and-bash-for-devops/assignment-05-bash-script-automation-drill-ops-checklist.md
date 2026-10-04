@@ -81,9 +81,7 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
-
----
+#!/bin/bash is called a shebang. It tells the operating system to use the Bash interpreter to execute the script when the script is run directly.
 
 **2. Why do we use `chmod +x` before running a script?**
 
