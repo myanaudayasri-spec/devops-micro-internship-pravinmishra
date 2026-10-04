@@ -99,9 +99,8 @@ If Nginx fails to restart in production, the website or application may become u
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+My basic rollback plan is to restore the last known working version or configuration, restart the affected service, and verify that the application is working correctly. After service is restored, I would investigate the failed change before trying it again.
 
----
 
 # Task 3 — Logs & Request Trace
 
