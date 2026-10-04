@@ -314,9 +314,8 @@ Claude's explanation represents the Reason phase. Claude uses the evidence colle
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Reason phase. Claude uses the evidence collected during the Gather phase to interpret the results, identify the likely problem, and explain what should be done next.
 
----
 
 # Task 8 — Recover Manually, Verify Again, and Write the Incident Summary
 
