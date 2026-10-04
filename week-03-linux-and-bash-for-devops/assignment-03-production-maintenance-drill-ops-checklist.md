@@ -59,9 +59,9 @@ SSH is active on port 22 if a scan shows port 22/tcp is open and identifies the 
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No, I did not find any unexpected open ports. The open ports detected were associated with expected services, and no suspicious or unrecognized ports were identified.
 
----
+
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
 
