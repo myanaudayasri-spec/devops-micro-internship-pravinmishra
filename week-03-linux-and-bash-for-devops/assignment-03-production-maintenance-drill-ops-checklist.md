@@ -312,9 +312,8 @@ The application broke because of an error in the code or configuration that prev
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I identified the root cause of the failure, corrected the faulty code or configuration, and then tested the application to confirm that it was working properly. After verifying the fix, I restored the application to its normal working state.
 
----
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
