@@ -307,9 +307,8 @@ A function in Bash is a named group of commands that performs a specific task. I
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+Functions help organize a script into smaller, reusable sections. They reduce repeated code, make the script easier to understand, and make it simpler to maintain or modify.
 
----
 
 **3. Why should conditions be tested with different values?**
 
