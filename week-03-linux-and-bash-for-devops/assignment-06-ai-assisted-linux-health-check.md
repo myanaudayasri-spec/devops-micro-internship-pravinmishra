@@ -374,9 +374,8 @@ Automatically restarting every failed service could make the situation worse. A 
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot mainly provides answers based on the conversation, while an agentic workflow allows AI to gather real system evidence, reason about it, and recommend controlled actions with human oversight.
 
----
 
 # Incident Summary
 
