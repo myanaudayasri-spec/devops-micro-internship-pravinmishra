@@ -254,9 +254,8 @@ disable-model-invocation: true prevents the model from automatically triggering 
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash performs the actual system checks and collects factual evidence, such as service status, open ports, and command results. Claude then examines that evidence, interprets the results, and explains whether the system appears healthy or has a problem. This separates evidence collection from analysis.
 
----
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
