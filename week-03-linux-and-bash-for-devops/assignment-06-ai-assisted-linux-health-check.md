@@ -394,9 +394,9 @@ The web application was not available to users. The health checks indicated that
 
 **2. Evidence Collected**
 
-The web application was not available to users. The health checks indicated that Nginx was unavailable and HTTP traffic was not being served normally.
+The Bash health-check report showed failures in the Nginx service check, HTTP port check, and application availability check. The Nginx service was not active, and the expected HTTP port was not listening.
 
----
+
 
 **3. Most Likely Cause**
 
