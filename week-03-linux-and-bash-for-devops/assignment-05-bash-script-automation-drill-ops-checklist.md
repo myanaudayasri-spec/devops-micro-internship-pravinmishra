@@ -367,9 +367,8 @@ I created functions for the main tasks in the script, such as checking files or 
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The final script uses variables to store values, arrays to store multiple related items, and loops to process those items. Conditionals are used to make decisions, such as checking whether a file or directory exists. File operations allow the script to work with files, while functions organize these tasks into reusable blocks. Combining all these concepts makes the script more structured, efficient, and easier to maintain.
 
----
 
 # LinkedIn Post (Required)
 
