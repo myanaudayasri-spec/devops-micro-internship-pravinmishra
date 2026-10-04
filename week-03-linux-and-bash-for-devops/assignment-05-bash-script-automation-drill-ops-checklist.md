@@ -155,9 +155,8 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array in Bash is a variable that can store multiple values under one name. Each value is stored at a different index, starting from 0.
 
----
 
 **2. Why are arrays useful in scripts?**
 
