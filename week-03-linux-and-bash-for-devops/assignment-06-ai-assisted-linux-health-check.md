@@ -415,9 +415,8 @@ After the recovery action, the health checks were run again. Nginx was active an
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI did not restart the service automatically. The recovery command was left for human execution because restarting a production service can have unintended effects. This provided human approval and control over the change.
 
----
 
 **7. Agentic Loop Mapping**
 
