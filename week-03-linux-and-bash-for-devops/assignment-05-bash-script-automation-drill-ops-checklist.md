@@ -85,9 +85,7 @@ Answer the following in your own words:
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
-
----
+chmod +x gives the script execute permission. Without this permission, the script usually cannot be run directly using ./script.sh.
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
