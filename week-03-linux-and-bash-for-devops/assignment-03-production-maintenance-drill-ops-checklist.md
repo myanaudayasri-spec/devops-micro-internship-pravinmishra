@@ -342,9 +342,8 @@ Only the ports needed by the application should be open because every open port 
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+Nginx should be enabled on boot so that it automatically starts whenever the server restarts. This helps ensure that the website or application becomes available again without requiring someone to manually start the web server.
 
----
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
