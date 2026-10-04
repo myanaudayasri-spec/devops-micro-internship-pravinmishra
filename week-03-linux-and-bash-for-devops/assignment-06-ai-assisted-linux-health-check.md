@@ -41,9 +41,8 @@ The systemctl status nginx command shows that the Nginx service is active and ru
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+A command such as ss -tuln can show that the server is listening on port 80, which is the standard port for HTTP traffic. Seeing a listening entry for port 80 confirms that the server is ready to accept HTTP connections.
 
----
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
