@@ -170,9 +170,8 @@ Arrays are useful because they allow a script to store and manage multiple relat
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop is used to go through each item in the array one at a time and perform the required commands on each item. This avoids repeating the same code manually for every value.
 
----
 
 # Task 5 — Loops: Number Counter Script
 
