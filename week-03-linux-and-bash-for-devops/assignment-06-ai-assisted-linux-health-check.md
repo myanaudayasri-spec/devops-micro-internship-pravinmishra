@@ -106,9 +106,8 @@ The Gather phase is represented by collecting information about the system, such
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes, Claude followed the instruction not to create files. I verified this by checking the project directory and confirming that no new files were created by Claude. The work was limited to providing commands, analysis, and recommendations.
 
----
 
 **3. Why is planning before coding useful in DevOps automation?**
 
