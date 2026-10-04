@@ -252,9 +252,7 @@ The -d option checks whether a specified path exists and is a directory. It retu
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
-
----
+The -f option checks whether a specified path exists and is a regular file. It returns true if the file exists and is a normal file.
 
 **3. Why should file and directory paths be stored in variables?**
 
