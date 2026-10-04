@@ -215,9 +215,8 @@ The script returned exit code 0 because the health checks completed successfully
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning means that something is not completely normal but the application may still be functioning. A failure indicates a critical problem that prevents an important health check from passing or affects the application's ability to operate correctly.
 
----
 
 # Task 6 — Create and Run the /linux-triage Skill
 
