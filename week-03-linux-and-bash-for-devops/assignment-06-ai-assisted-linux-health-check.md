@@ -172,9 +172,8 @@ $(...) is used for command substitution in Bash. It runs the command inside the 
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes allow the script and other monitoring or automation tools to distinguish between normal, warning, and failure conditions. This makes it easier to automatically determine the system's health and decide what action should be taken.
 
----
 
 # Task 5 — Run and Understand the Healthy-State Report
 
