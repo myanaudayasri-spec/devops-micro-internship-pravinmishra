@@ -370,9 +370,7 @@ The second triage run is necessary to verify that the recovery action actually f
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
-
----
+Automatically restarting every failed service could make the situation worse. A service might be intentionally stopped, restarting it could interrupt other applications, cause data loss, hide the real root cause, or create repeated restart loops. Human approval is therefore important for potentially disruptive recovery actions.
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
