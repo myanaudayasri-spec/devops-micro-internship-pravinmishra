@@ -101,9 +101,8 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is represented by collecting information about the system, such as checking the Nginx service status, listening ports, logs, and other relevant system details. This information helps understand the current state before taking any action.
 
----
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
