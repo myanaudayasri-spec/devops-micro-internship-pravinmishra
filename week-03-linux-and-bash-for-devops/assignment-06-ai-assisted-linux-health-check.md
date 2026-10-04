@@ -365,9 +365,8 @@ The service recovery is proven by checking that Nginx is active (running) again 
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run is necessary to verify that the recovery action actually fixed the problem. It provides fresh evidence showing whether Nginx and the application are healthy again instead of assuming that the restart was successful.
 
----
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
