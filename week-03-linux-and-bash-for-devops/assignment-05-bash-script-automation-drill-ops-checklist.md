@@ -213,9 +213,8 @@ The loop ran 5 times in my script, once for each iteration specified in the loop
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would change the loop's range or condition so that it goes from 1 to 10 instead of 1 to 5. For example, in a Bash for loop, I could use for i in {1..10}.
 
----
 
 # Task 6 — Files & Conditionals: File Validation Script
 
