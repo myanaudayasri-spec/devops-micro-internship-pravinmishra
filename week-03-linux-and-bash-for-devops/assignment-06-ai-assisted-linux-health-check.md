@@ -420,9 +420,8 @@ The AI did not restart the service automatically. The recovery command was left 
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The workflow followed the Agentic Loop: Gather — Bash collected system evidence; Reason — Claude analyzed the evidence and identified the likely cause; Act — the human executed the approved recovery command; and Verify — the health checks were run again to confirm that the service had recovered.
 
----
 
 # LinkedIn Post (Required)
 
