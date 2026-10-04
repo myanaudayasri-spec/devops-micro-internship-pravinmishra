@@ -36,9 +36,8 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash stands for Bourne Again SHell. It is a command-line shell used in Linux and other operating systems to run commands, manage files, execute programs, and automate tasks using scripts.
 
----
 
 **2. What is the difference between shell and Bash?**
 
