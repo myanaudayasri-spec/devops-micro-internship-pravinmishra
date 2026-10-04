@@ -256,9 +256,8 @@ The -f option checks whether a specified path exists and is a regular file. It r
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Storing file and directory paths in variables makes scripts easier to read, update, and maintain. If a path changes, it only needs to be changed in one place instead of throughout the entire script.
 
----
 
 **4. What happens if the file does not exist?**
 
