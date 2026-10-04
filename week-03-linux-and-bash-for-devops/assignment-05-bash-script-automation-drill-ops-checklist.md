@@ -46,9 +46,8 @@ A shell is a general program that provides a command-line interface between the 
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+It is important to check the Bash version because different versions may support different features and syntax. Knowing the version helps ensure that the commands and features used in a script are compatible with the target system and prevents unexpected errors when the script runs.
 
----
 
 # Task 2 — Your First Bash Script
 
