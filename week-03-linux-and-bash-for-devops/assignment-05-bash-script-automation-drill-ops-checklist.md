@@ -165,9 +165,8 @@ Arrays are useful because they allow a script to store and manage multiple relat
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+"${tools[@]}" refers to all the elements stored in the tools array. When used inside quotes, each array element is treated as a separate value, which is useful for safely processing every item.
 
----
 
 **4. What is the purpose of the `for` loop in this script?**
 
