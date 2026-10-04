@@ -277,9 +277,9 @@ I identified the root cause of the issue, corrected the problem, and tested the 
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+To avoid this kind of issue in real production systems, I would use proper testing, code reviews, monitoring, and logging. I would also validate inputs, handle errors safely, and test edge cases before deployment. Automated tests and continuous monitoring can help detect similar issues early and prevent them from affecting users.
 
----
+
 
 # Task 7 — Web Application Failure Simulation
 
