@@ -294,9 +294,8 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The three failed checks were the Nginx service check, the HTTP port check, and the application availability check. These failures indicate that the web application was not operating normally.
 
----
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
