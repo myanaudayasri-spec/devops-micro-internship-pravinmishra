@@ -302,9 +302,8 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+A function in Bash is a named group of commands that performs a specific task. It can be called whenever that task is needed in a script.
 
----
 
 **2. What does `-ge` mean?**
 
