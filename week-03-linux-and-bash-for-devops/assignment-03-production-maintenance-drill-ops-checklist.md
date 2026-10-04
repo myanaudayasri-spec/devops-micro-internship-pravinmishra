@@ -347,9 +347,8 @@ Nginx should be enabled on boot so that it automatically starts whenever the ser
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Publicly sharing secrets, private keys, passwords, or other credentials can allow unauthorized people to access servers, applications, databases, or cloud resources. This can lead to data theft, service disruption, financial loss, or further security breaches. Exposed credentials should be revoked or rotated immediately.
 
----
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
