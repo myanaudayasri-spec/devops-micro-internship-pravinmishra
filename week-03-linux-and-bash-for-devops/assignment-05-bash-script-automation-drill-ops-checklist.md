@@ -362,9 +362,8 @@ Functions make scripts more organized and easier to manage. They allow us to reu
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created functions for the main tasks in the script, such as checking files or directories and displaying the required information. These functions helped divide the script into smaller and reusable sections.
 
----
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
