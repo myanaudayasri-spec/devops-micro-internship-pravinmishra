@@ -299,9 +299,8 @@ The three failed checks were the Nginx service check, the HTTP port check, and t
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The evidence is that the Nginx service was not shown as active (running), and the server was no longer listening on the expected HTTP port. These results together indicate that Nginx was unavailable and could not serve HTTP traffic.
 
----
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
