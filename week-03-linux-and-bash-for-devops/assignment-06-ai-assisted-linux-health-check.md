@@ -46,9 +46,8 @@ A command such as ss -tuln can show that the server is listening on port 80, whi
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline provides a reference point for comparison. By recording the normal service status, ports, and application behavior before an incident, it becomes easier to identify what changed during the failure and confirm that the system has been successfully restored afterward.
 
----
 
 # Task 2 — Create Project Context and Safety Rules in CLAUDE.md
 
