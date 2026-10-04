@@ -210,9 +210,8 @@ The Linux evidence is that Nginx is shown as active (running) with systemctl sta
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because the health checks completed successfully and the system was in a healthy state. An exit code of 0 indicates that the script completed without detecting a failure.
 
----
 
 **4. What is the difference between a warning and a failure in this script?**
 
