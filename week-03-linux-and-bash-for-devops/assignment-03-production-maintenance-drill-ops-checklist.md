@@ -48,9 +48,9 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output of a command such as ss -tuln showing 0.0.0.0:80 confirms that Nginx is listening for HTTP connections on port 80 on all IPv4 network interfaces.
 
----
+
 
 **2. What proves SSH is active on port 22?**
 
