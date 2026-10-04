@@ -317,9 +317,8 @@ In this script, I created functions to perform the specific tasks required by th
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+The final script uses variables to store information, arrays to hold multiple related values, and loops to process those values repeatedly. It uses conditionals to make decisions based on whether files or directories exist. Functions organize the different tasks into reusable sections, while file operations allow the script to check and work with files. Together, these features make the script more organized, efficient, and easier to maintain.
 
----
 
 # Task 8 — Functions: Final Bash Automation Script
 
