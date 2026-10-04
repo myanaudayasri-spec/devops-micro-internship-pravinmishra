@@ -148,9 +148,9 @@ If there were no errors, it indicates that the system was running normally durin
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, the curl requests were visible in the access logs. This proves that the requests reached the Nginx server and that Nginx successfully received and processed the traffic.
 
----
+
 
 # Task 4 — System Resource Health Check (Capacity Red Flags)
 
