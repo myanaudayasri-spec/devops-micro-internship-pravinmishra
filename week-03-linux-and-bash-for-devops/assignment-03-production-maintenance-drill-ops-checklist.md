@@ -307,9 +307,8 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because of an error in the code or configuration that prevented it from running as expected. This caused the application to fail when it reached the affected part of the system.
 
----
 
 **2. How did you fix the issue and restore the application?**
 
