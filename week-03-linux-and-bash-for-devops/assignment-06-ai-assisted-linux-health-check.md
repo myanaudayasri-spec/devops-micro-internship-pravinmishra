@@ -78,10 +78,8 @@ The human is required to execute the recovery command because restarting or chan
 
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
+The rule that prevents Claude from making an unsupported diagnosis is the requirement to use evidence from system checks, logs, or other available information before identifying the root cause. Claude should clearly distinguish between confirmed facts and assumptions rather than presenting a guess as the actual cause.
 
-Add your answer here.
-
----
 
 # Task 3 — Use Agentic AI to Plan Before Writing the Script
 
