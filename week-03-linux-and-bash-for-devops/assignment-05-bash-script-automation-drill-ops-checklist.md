@@ -248,9 +248,7 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
-
----
+The -d option checks whether a specified path exists and is a directory. It returns true if the directory exists.
 
 **2. What does `-f` check in Bash?**
 
