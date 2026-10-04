@@ -127,9 +127,7 @@ Bash does not allow spaces around the = sign when assigning a value to a variabl
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
-
----
+You access the value of a Bash variable by placing a $ before its name. For example, if name="John", using $name will return the value John.
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
 
