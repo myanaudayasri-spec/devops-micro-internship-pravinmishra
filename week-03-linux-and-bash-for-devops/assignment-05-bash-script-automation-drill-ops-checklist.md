@@ -203,9 +203,8 @@ A loop is a programming structure that repeatedly executes a set of commands unt
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+Loops are used in Bash scripting to repeat tasks automatically. They reduce the need to write the same commands multiple times and make scripts shorter, easier to maintain, and more efficient.
 
----
 
 **3. How many times did the loop run in your script?**
 
