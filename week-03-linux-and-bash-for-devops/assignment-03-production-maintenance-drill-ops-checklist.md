@@ -190,9 +190,8 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+CPU/load looks the most critical right now because high CPU usage or system load can slow down the server and affect application performance. Memory and disk usage appear less concerning compared with the current CPU/load level.
 
----
 
 **2. What happens if disk becomes 100% full in a production server?**
 
