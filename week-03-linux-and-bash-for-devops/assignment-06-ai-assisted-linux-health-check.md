@@ -162,9 +162,8 @@ The for loop goes through each item in the checks array one at a time. It then r
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Separating the health checks into functions keeps each check focused on one specific task. This makes the script easier to read, test, troubleshoot, and update without affecting the other checks.
 
----
 
 **4. What is the purpose of `$(...)` in this script?**
 
