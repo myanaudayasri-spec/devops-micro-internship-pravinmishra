@@ -74,9 +74,8 @@ Claude should receive project-specific operational rules so it understands the c
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human is required to execute the recovery command because restarting or changing a production service can have real consequences. Keeping the final action with a human provides an important safety check and ensures that changes are reviewed and authorized before they are applied.
 
----
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
