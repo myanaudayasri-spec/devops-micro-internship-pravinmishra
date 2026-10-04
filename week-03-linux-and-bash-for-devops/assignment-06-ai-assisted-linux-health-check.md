@@ -259,9 +259,8 @@ Bash performs the actual system checks and collects factual evidence, such as se
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+This approach is better because Claude bases its conclusion on real evidence from the server rather than guessing. Without system information, Claude cannot reliably know the current state of the server. Evidence-based checks make the diagnosis more accurate, explainable, and easier to verify.
 
----
 
 # Task 7 — Simulate an Nginx Incident and Let the Skill Diagnose It
 
