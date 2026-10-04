@@ -54,9 +54,8 @@ The output of a command such as ss -tuln showing 0.0.0.0:80 confirms that Nginx 
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+SSH is active on port 22 if a scan shows port 22/tcp is open and identifies the service as SSH (for example, OpenSSH).
 
----
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
