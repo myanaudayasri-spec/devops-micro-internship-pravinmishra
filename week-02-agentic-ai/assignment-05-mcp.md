@@ -80,7 +80,8 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+<img width="1247" height="628" alt="image" src="https://github.com/user-attachments/assets/2606fba3-663d-4b4e-8972-fefae3140626" />
+
 
 ---
 
