@@ -312,9 +312,8 @@ Functions help organize a script into smaller, reusable sections. They reduce re
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+In this script, I created functions to perform the specific tasks required by the program, such as displaying information and checking the required files or directories.
 
----
 
 **4. How can conditionals help in automation scripts?**
 
