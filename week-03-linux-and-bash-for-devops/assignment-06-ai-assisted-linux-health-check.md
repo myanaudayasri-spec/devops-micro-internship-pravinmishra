@@ -167,9 +167,8 @@ Separating the health checks into functions keeps each check focused on one spec
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) is used for command substitution in Bash. It runs the command inside the parentheses and replaces the $(...) expression with the command's output. This allows the script to store or use the result of a command.
 
----
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
