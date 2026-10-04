@@ -198,10 +198,8 @@ Add your screenshot here.
 Answer the following in your own words:
 
 **1. What is a loop?**
+A loop is a programming structure that repeatedly executes a set of commands until a specified condition is met or a certain number of repetitions is completed.
 
-Add your answer here.
-
----
 
 **2. Why do we use loops in Bash scripting?**
 
