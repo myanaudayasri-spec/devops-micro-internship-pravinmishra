@@ -244,9 +244,8 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+The skill has Bash, Read, and Grep because it is designed to inspect and diagnose the system using existing information. Bash can run health-check commands, Read can view relevant files, and Grep can search logs or configuration. Write is not included because the skill should not modify or create files automatically.
 
----
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
