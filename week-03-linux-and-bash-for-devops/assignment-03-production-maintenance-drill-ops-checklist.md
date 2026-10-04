@@ -266,9 +266,9 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The configuration failed because the settings were incorrect or incomplete, causing the system to be unable to apply the required configuration.
 
----
+
 
 **2. How did you fix the issue?**
 
