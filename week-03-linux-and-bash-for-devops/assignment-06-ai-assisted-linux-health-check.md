@@ -201,9 +201,8 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status of the healthy baseline is HEALTHY. All the required services and checks were working correctly, and there were no critical issues detected.
 
----
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
