@@ -41,9 +41,8 @@ Bash stands for Bourne Again SHell. It is a command-line shell used in Linux and
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a general program that provides a command-line interface between the user and the operating system. Bash is one specific type of shell. Other shells include Zsh, Fish, and the Korn shell. Therefore, Bash is a shell, but not every shell is Bash.
 
----
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
