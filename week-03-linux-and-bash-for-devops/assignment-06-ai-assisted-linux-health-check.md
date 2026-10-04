@@ -111,9 +111,8 @@ Yes, Claude followed the instruction not to create files. I verified this by che
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning before coding helps define the required steps, expected results, and safety checks before automation is implemented. It reduces mistakes, prevents unnecessary changes to production systems, and makes the automation easier to test, understand, and maintain.
 
----
 
 # Task 4 — Build the Linux Triage Bash Script
 
