@@ -157,9 +157,8 @@ The checks array stores the names of the health-check functions that the script 
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each item in the checks array one at a time. It then runs the corresponding health-check function for each item and processes its result.
 
----
 
 **3. Why are the health checks separated into functions?**
 
