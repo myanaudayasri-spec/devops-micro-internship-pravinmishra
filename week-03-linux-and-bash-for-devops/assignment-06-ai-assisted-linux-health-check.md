@@ -360,9 +360,8 @@ I manually executed the recovery command to restart the Nginx service. This rest
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The service recovery is proven by checking that Nginx is active (running) again and that the server is listening on the expected HTTP port, such as port 80. A successful health-check result also confirms that the application has returned to a healthy state.
 
----
 
 **3. Why is the second triage run necessary?**
 
