@@ -132,7 +132,8 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="1616" height="323" alt="image" src="https://github.com/user-attachments/assets/0ee9d8ae-6231-4bbd-b2ba-ec10e63f85bc" />
+
 
 ---
 
