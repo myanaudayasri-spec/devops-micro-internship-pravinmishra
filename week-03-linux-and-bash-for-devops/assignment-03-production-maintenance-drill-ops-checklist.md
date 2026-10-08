@@ -117,7 +117,8 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+<img width="1815" height="717" alt="image" src="https://github.com/user-attachments/assets/e8518d46-08f5-4729-ad68-0177b2a7ba87" />
+
 
 ---
 
