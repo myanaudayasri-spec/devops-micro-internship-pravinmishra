@@ -239,7 +239,10 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+
+<img width="1547" height="135" alt="Screenshot 2026-10-08 221632" src="https://github.com/user-attachments/assets/de485147-8a3e-47ac-a170-330bb064e9da" />
+
+
 
 ---
 
