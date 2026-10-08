@@ -89,7 +89,8 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+<img width="1787" height="390" alt="image" src="https://github.com/user-attachments/assets/04ecbe54-a2c2-4de8-a29c-df14dfefa63c" />
+
 
 ---
 
