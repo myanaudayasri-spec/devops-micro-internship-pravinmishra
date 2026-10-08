@@ -40,7 +40,8 @@ Add your screenshot here.
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+<img width="1837" height="981" alt="image" src="https://github.com/user-attachments/assets/7bfb1b71-dbaf-4f63-bbc4-cec372812bec" />
+
 
 ---
 
