@@ -83,7 +83,7 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+<img width="1686" height="287" alt="image" src="https://github.com/user-attachments/assets/cbb7b388-7d9b-480a-b13f-c6c828c009fc" />
 
 ---
 
