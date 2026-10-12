@@ -27,7 +27,8 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+<img width="1837" height="985" alt="image" src="https://github.com/user-attachments/assets/ed0d5c4c-c68e-4c83-8469-72e98e02f0ac" />
+
 
 ---
 
