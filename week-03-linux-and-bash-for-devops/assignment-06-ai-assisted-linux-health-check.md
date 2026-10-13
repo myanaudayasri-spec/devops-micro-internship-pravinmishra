@@ -361,7 +361,8 @@ Add your screenshot here.
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1342" height="680" alt="image" src="https://github.com/user-attachments/assets/66979463-25f3-4500-81b9-25d7eb0dc88a" />
+
 
 ---
 
