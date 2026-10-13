@@ -158,7 +158,8 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea2d9084-ca40-4bfc-b244-2fe19cdc5d3d" />
+
 
 ---
 
