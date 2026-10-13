@@ -121,7 +121,7 @@ The line in hooks/pre-commit that searches for the pattern AKIA matched my fake 
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No, the hook might not detect a secret stored in a variable if it does not contain the AKIA prefix or match the pattern defined in the hook. This shows that fixed rules can detect only specific patterns and may miss secrets in other formats. Therefore, hooks should be combined with more advanced secret-scanning tools, code reviews, and secure coding practices to improve secret detection.
 
 ---
 
