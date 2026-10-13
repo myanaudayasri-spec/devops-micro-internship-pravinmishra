@@ -152,7 +152,8 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+<img width="907" height="152" alt="image" src="https://github.com/user-attachments/assets/8917f6e5-d5da-4e00-aba2-67eb676406a1" />
+
 
 ---
 
