@@ -294,7 +294,8 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+<img width="753" height="222" alt="image" src="https://github.com/user-attachments/assets/cf21e44b-4c16-4450-b016-29381666c943" />
+
 
 ---
 
