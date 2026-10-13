@@ -219,7 +219,7 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I reviewed the AI-generated PR description and made sure it accurately described my changes, the purpose of the pre-commit hook, and the security checks I performed. I corrected any inaccurate or unnecessary information and ensured the description matched the actual changes in my repository. This was important because AI-generated content can contain mistakes or assumptions.
 
 ---
 
