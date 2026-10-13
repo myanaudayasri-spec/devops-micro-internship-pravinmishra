@@ -200,7 +200,8 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="1580" height="677" alt="image" src="https://github.com/user-attachments/assets/f4f8cc82-d0c6-444f-a76a-17f146a26977" />
+
 
 ---
 
