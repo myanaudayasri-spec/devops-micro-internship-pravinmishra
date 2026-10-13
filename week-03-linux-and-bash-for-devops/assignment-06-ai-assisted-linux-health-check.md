@@ -142,7 +142,8 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+<img width="1712" height="897" alt="Screenshot 2026-10-13 093545" src="https://github.com/user-attachments/assets/21d307b4-8b2d-4fa0-a6a5-4d74dad56e6a" />
+
 
 ---
 
