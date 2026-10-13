@@ -225,7 +225,7 @@ I reviewed the AI-generated PR description and made sure it accurately described
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+If I had copied the AI's draft without reviewing it, the PR description might have contained incorrect information, unsupported claims, or details that did not match my actual code changes. This could confuse reviewers, reduce trust, and make the review process less effective. Therefore, AI-generated content should always be checked for accuracy before being submitted.
 
 ---
 
