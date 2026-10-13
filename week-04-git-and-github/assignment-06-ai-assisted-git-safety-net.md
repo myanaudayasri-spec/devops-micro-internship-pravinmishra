@@ -91,7 +91,9 @@ The hooks/pre-commit file is tracked in the repository so that all team members 
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+The Git pre-commit hook intercepts a Git commit before it is completed. It can run checks on the code and prevent the commit if errors or rule violations are found. In contrast, the PreToolUse hook in Claude Code intercepts a tool call before Claude executes it, allowing the system to check or block potentially unsafe actions.
+
+Both hooks act as preventive checkpoints. They run before an action is completed, enforce rules automatically, and help prevent mistakes or unsafe operations. The main difference is that pre-commit controls Git commits, while PreToolUse controls Claude Code's tool executions.
 
 ---
 
