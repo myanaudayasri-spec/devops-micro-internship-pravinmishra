@@ -169,7 +169,12 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+Answer: Satisfying the Pre-Commit Hook
+
+I removed the fake AWS access key from the staged changes to satisfy the pre-commit hook. The hook detected the AKIA pattern in the fake key and blocked the commit to prevent accidentally exposing sensitive credentials. After removing the key and checking the changes again, the pre-commit hook allowed the commit to proceed successfully.
+
+Clarify how I verified the changes
+Add the security lesson I learned
 
 ---
 
