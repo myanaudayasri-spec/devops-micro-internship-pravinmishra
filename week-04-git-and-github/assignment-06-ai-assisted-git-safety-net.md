@@ -115,7 +115,7 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The line in hooks/pre-commit that searches for the pattern AKIA matched my fake key because it followed the format of an AWS access key ID. The hook uses a pattern-matching rule to detect strings that begin with the AKIA prefix. Since my fake key contained this prefix, the hook detected it and prevented the commit to avoid accidentally exposing a secret.
 
 ---
 
