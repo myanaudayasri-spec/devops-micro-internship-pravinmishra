@@ -450,13 +450,14 @@ The workflow followed the Agentic Loop: Gather — Bash collected system evidenc
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dZdztXsv
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/85022706-fe17-40e9-9969-0aa3c78bd84a" />
+
 
 ---
 
