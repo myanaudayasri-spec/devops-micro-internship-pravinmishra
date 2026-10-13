@@ -34,7 +34,9 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden directory created by Git when we initialize a repository using the git init command. It stores important information about the project, including commit history, branches, configuration, and version tracking data. It matters because it allows developers to track changes, restore previous versions, compare updates, and collaborate with others. Without the .git folder, Git cannot track the project's version history in that directory.
+
+
 
 ---
 
