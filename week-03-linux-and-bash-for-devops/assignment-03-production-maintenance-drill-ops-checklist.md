@@ -395,7 +395,7 @@ Unused cloud resources should be stopped or terminated to avoid unnecessary cost
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dFvvfTw2
 
 ---
 
