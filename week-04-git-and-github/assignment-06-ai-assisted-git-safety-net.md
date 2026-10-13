@@ -231,7 +231,7 @@ If I had copied the AI's draft without reviewing it, the PR description might ha
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The PR needs to target my own fork because I am working on my personal copy of the shared repository. My fork allows me to make changes and submit them for review without directly modifying the original upstream repository. This protects the shared project, keeps contributions separate, and allows maintainers to review and approve changes before they are merged.
 
 ---
 
