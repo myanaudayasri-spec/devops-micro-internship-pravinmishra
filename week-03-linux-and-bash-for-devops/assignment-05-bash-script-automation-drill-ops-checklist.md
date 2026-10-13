@@ -347,7 +347,8 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/525ff111-4b39-4706-a782-db74723dd52d" />
+
 
 ---
 
