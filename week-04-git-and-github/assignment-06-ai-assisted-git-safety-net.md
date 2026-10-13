@@ -155,7 +155,7 @@ The /pr-ready command has Bash and Read permissions because it needs to execute 
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No, the pre-commit hook and /pr-ready did not necessarily flag the same things. The pre-commit hook used fixed rules to detect specific patterns, such as a fake AWS access key containing the AKIA prefix, and blocked the commit when a matching pattern was found. In contrast, /pr-ready reviewed the staged changes more broadly and could identify potential code-quality issues, security risks, and other problems that simple pattern-matching rules might miss. This shows that automated hooks and AI-based reviews complement each other by providing different levels of protection.
 
 ---
 
