@@ -85,7 +85,7 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+The hooks/pre-commit file is tracked in the repository so that all team members can access and use the same pre-commit checks. Files inside .git/hooks/ are local to a developer's machine and are not automatically shared when the repository is cloned. By tracking the hook in the repository, the team can maintain, review, and update the checks consistently. This improves code quality and helps prevent mistakes before code is committed.
 
 ---
 
