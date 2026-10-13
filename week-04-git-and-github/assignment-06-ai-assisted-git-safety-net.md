@@ -257,7 +257,7 @@ The Analyze step involves reviewing the staged changes using the /pr-ready AI sk
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+The Human Act step involves the human reviewing the results, running git commit and git push, and opening the pull request. A human must perform these actions to maintain control over important repository changes, verify the AI's recommendations, and ensure that the changes are correct and authorized before sharing them.
 
 ---
 
