@@ -149,7 +149,7 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+The /pr-ready command has Bash and Read permissions because it needs to execute commands and read files to review the code before a pull request. It does not have Write permission because its purpose is to inspect the changes, identify problems, and report findings rather than modify files. This follows the principle of least privilege, which means giving a tool only the permissions it needs to perform its task safely.
 
 ---
 
