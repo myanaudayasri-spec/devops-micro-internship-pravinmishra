@@ -263,7 +263,7 @@ The Human Act step involves the human reviewing the results, running git commit 
 
 **4. Which step is Verify?**
 
-Add your answer here.
+The Verify step involves checking that the commit was successful, confirming that the changes were pushed to the correct branch, and reviewing the pull request to ensure that its description and contents accurately represent the changes.
 
 ---
 
