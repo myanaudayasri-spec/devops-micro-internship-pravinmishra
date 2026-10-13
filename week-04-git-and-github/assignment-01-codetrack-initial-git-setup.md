@@ -27,7 +27,8 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+<img width="492" height="80" alt="image" src="https://github.com/user-attachments/assets/6311af35-182c-4861-923c-19ed01b9ddd0" />
+
 
 ---
 
