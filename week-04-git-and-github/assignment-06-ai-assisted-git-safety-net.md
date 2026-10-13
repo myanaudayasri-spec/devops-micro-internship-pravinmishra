@@ -56,8 +56,7 @@ This assignment uses an obviously fake key to demonstrate how to handle API keys
 ### Notes
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
-
-Add your answer here.
+This assignment uses an obviously fake key to practice handling secrets safely without exposing real credentials. Using a fake key prevents accidental security risks, unauthorized access, and misuse of sensitive information. It helps us learn how to identify, store, and protect API keys before working with real credentials in actual projects.
 
 ---
 
