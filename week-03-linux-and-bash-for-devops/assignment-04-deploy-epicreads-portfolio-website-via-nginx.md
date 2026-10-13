@@ -99,7 +99,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="716" height="412" alt="WhatsApp Image 2026-10-13 at 7 45 06 PM" src="https://github.com/user-attachments/assets/f2adec03-e2ac-4bec-892c-723c824fd2d1" />
+
 
 ---
 
