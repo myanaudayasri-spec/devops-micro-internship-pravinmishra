@@ -287,7 +287,8 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/15740820-205a-4bb0-902a-6fc038475733" />
+
 
 ---
 
