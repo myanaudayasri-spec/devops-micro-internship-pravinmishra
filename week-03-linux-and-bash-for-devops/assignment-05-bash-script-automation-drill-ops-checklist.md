@@ -398,7 +398,7 @@ The final script uses variables to store values, arrays to store multiple relate
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dzkAY_xX
 
 ---
 
