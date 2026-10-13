@@ -251,7 +251,7 @@ The Gather step involves collecting the necessary information, such as reading r
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+The Analyze step involves reviewing the staged changes using the /pr-ready AI skill and checking for potential security issues, code-quality problems, and other mistakes before creating a pull request.
 
 ---
 
