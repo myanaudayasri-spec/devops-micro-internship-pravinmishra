@@ -245,7 +245,7 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+The Gather step involves collecting the necessary information, such as reading repository files, checking the Git status, and examining the staged diff to understand what has changed.
 
 ---
 
