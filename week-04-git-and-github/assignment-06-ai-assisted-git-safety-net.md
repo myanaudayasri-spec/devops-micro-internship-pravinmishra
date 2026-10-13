@@ -188,7 +188,8 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake AWS access key containing the `AKIA` prefix from the staged changes and replaced it with a safe placeholder value. This satisfied the pre-commit hook because it no longer detected a string matching the suspicious key pattern. After checking the changes again, I was able to commit without triggering the hook.
+
 
 ---
 
