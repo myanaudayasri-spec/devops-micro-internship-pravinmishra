@@ -349,7 +349,8 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-Add your screenshot here.
+<img width="1565" height="657" alt="image" src="https://github.com/user-attachments/assets/6b7dc77e-bd36-4ea9-8c17-9adcba446c42" />
+
 
 ---
 
