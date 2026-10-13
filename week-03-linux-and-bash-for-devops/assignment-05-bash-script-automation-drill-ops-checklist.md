@@ -191,7 +191,8 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/76bad106-db11-409c-b239-382374c9a44c" />
+
 
 ---
 
