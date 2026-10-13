@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+Creating a dedicated branch instead of working directly on main helps keep the main branch stable and safe. It allows developers to work on new features, make changes, and test their work without affecting the main code. Once the changes are completed and tested, they can be merged into main. This approach reduces errors, makes collaboration easier, and keeps the project organized.
 
 ---
 
