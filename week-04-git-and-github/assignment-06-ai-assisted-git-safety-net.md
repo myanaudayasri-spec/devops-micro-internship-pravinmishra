@@ -269,7 +269,7 @@ The Verify step involves checking that the commit was successful, confirming tha
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+Both are necessary because the fixed-rule pre-commit hook reliably detects specific patterns, such as potential secrets, while the AI skill can analyze code more broadly and identify issues that fixed rules might miss. Using both provides multiple layers of protection and improves the overall quality and security of the code.
 
 ---
 
