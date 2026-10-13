@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+This assignment uses an obviously fake key to demonstrate how to handle API keys and secrets safely without exposing real credentials. Using a fake key prevents accidental access to real accounts, services, or sensitive data. It also helps students understand how to store secrets securely and avoid committing real credentials to GitHub. Real API keys should always be kept private and stored using environment variables or a secrets manager.
 
 ---
 
