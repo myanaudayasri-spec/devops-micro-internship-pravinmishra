@@ -141,7 +141,8 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2af929ad-648f-4409-a2a1-309677837744" />
+
 
 ---
 
