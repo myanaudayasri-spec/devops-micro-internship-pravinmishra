@@ -361,7 +361,8 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+<img width="733" height="96" alt="image" src="https://github.com/user-attachments/assets/330eac32-478c-4d62-93c0-17eea081ed88" />
+
 
 ---
 
