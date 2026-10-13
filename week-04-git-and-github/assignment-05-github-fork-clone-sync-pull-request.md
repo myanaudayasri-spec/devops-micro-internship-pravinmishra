@@ -34,7 +34,8 @@ Configure one authentication method — HTTPS with a Personal Access Token, or S
 
 #### Screenshot 2 — Output of `git config --global --get credential.helper` (HTTPS) or `ssh -T git@github.com` (SSH) showing successful authentication — never show your token or private key
 
-Add your screenshot here.
+<img width="888" height="117" alt="image" src="https://github.com/user-attachments/assets/21a61bbd-94ba-4f58-a4f2-70c498168b38" />
+
 
 ---
 
