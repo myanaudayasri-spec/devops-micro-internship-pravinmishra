@@ -20,7 +20,8 @@ Start from a clean default branch (`main` or `master`) and confirm the repositor
 
 #### Screenshot 1 — Output of `git status` and `git branch` showing a clean status and the default branch checked out
 
-Add your screenshot here.
+<img width="833" height="342" alt="image" src="https://github.com/user-attachments/assets/e0c25742-63cd-4b19-86f3-a7a6a0ddb495" />
+
 
 ---
 
