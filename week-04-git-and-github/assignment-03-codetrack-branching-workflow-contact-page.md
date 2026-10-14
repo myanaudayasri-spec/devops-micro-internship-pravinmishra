@@ -107,7 +107,8 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+<img width="644" height="440" alt="WhatsApp Image 2026-10-14 at 11 31 09 PM" src="https://github.com/user-attachments/assets/d9691a41-2bbc-45e8-8fc1-41d7454afe51" />
+
 
 ---
 
