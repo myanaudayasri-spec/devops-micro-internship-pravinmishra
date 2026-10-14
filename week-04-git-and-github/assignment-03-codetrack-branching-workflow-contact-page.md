@@ -128,7 +128,8 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 11 — Output of `git merge feature/contact-page`
 
-Add your screenshot here.
+<img width="1616" height="82" alt="image" src="https://github.com/user-attachments/assets/ad06355a-9985-4352-bc99-111c5e08ad63" />
+
 
 ---
 
