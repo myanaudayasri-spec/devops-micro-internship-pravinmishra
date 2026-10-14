@@ -115,7 +115,8 @@ Add your screenshot here.
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ded61429-446e-4f50-97e0-4696b40f44cd" />
+
 
 ---
 
