@@ -57,7 +57,9 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="716" height="448" alt="WhatsApp Image 2026-10-15 at 4 12 45 PM" src="https://github.com/user-attachments/assets/a10200eb-fe8f-4187-89e5-ac173e7ce26f" />
+
+<img width="716" height="476" alt="WhatsApp Image 2026-10-15 at 4 13 45 PM" src="https://github.com/user-attachments/assets/d8815728-9aef-4943-843a-51e389e552ad" />
 
 ---
 
