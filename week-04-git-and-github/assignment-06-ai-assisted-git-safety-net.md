@@ -322,7 +322,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-....
+https://github.com/myanaudayasri-spec/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
