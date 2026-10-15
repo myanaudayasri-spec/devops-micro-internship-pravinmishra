@@ -184,7 +184,11 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="716" height="484" alt="WhatsApp Image 2026-10-15 at 3 51 45 PM" src="https://github.com/user-attachments/assets/f2e4e316-ebc0-4986-b91b-390731ec0d34" />
+
+<img width="716" height="508" alt="WhatsApp Image 2026-10-15 at 3 53 27 PM" src="https://github.com/user-attachments/assets/3f6b0940-7c31-4894-961e-b553262f11ea" />
+
+<img width="667" height="295" alt="WhatsApp Image 2026-10-15 at 3 54 44 PM" src="https://github.com/user-attachments/assets/aca813c3-33e6-4d94-8605-b6f3e0a81bf8" />
 
 ---
 
