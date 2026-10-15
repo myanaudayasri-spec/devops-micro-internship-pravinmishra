@@ -300,9 +300,9 @@ https://lnkd.in/p/d_jPTMVW
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+- Learned how Git pre-commit hooks can automatically detect risky patterns such as fake secrets before a commit.
+- Learned how Claude Code skills can review staged changes without modifying, committing, or pushing files.
+- Learned the importance of using fixed-rule checks together with AI-based analysis for better coverage. 
 
 ---
 
