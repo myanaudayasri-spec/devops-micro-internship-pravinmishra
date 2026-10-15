@@ -27,7 +27,8 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+<img width="1691" height="281" alt="image" src="https://github.com/user-attachments/assets/b34e0185-bf50-4f5b-8455-6039af902041" />
+
 
 ---
 
