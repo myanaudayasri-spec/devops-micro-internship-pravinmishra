@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/myana-udayasri-5a377b434_agenticai-devops-devopsjourney-share-7510685539080237056---C1/?| https://medium.com/@myanaudayasri/my-week-1-devops-journey-building-my-mindset-os-accc0a06d04d?sharedUserId=myanaudayasri||
 | 02 | Agentic AI with Claude Code |✅ Completed |✅ Solved | https://www.linkedin.com/posts/myana-udayasri-5a377b434_devops-agenticai-dmi-share-7511411781009899520-wsKi/?u| https://medium.com/@myanaudayasri/reflection-week-2-4f9159d53481?sharedUserId=myanaudayasri|
 | 03 | Linux & Bash for DevOps | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/myana-udayasri-5a377b434_devops-linux-bashscripting-share-7515694027862896641-8X5T/?| https://medium.com/@myanaudayasri/day-of-learning-ai-assisted-linux-incident-triage-devops-micro-internship-dmi-im-happy-to-72855325b67c?sharedUserId=myanaudayasri|
-| 04 | Git & GitHub | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/myana-udayasri-5a377b434_devops-agenticai-claudecode-share-7516446294987579392-vRdJ/?| — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/myana-udayasri-5a377b434_devops-agenticai-claudecode-share-7516446294987579392-vRdJ/?| https://medium.com/@myanaudayasri/dmi-assignment-6-completed-building-an-ai-assisted-git-safety-net-3c3ee8908a9b?sharedUserId=myanaudayasri |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
