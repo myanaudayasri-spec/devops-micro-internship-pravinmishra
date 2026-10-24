@@ -143,7 +143,8 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
-Add your screenshot here.
+<img width="716" height="436" alt="WhatsApp Image 2026-10-24 at 7 06 32 PM" src="https://github.com/user-attachments/assets/72b0234d-65c5-4fc3-9a8a-c100c772ab76" />
+
 
 ---
 
