@@ -124,7 +124,7 @@ Add your screenshot here.
 
 Paste your Pull Request URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dvnZuHjG
 
 ---
 
