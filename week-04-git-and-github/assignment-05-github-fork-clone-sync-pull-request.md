@@ -142,7 +142,8 @@ https://lnkd.in/p/dvnZuHjG
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-![Uploading Screenshot 2026-10-24 191243.png…]()
+<img width="1920" height="1200" alt="Screenshot 2026-10-24 191243" src="https://github.com/user-attachments/assets/787b5aa9-6909-414c-b295-67f854a7b99a" />
+
 
 
 ---
