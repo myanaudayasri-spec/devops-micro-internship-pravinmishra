@@ -45,7 +45,7 @@ If you signed up with Google and no separate email verification was required, in
 
 > I signed up using Google, and Atlassian did not require separate email verification.
 
-Add any additional notes here.
+It is such a simple and easy process to access the jira account
 
 ---
 
