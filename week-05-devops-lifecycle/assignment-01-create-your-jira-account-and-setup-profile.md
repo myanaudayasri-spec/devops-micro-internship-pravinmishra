@@ -59,7 +59,8 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4b88b400-f751-48dc-94a2-f1dec90c1ca8" />
+
 
 ---
 
