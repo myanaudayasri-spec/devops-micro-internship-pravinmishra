@@ -109,7 +109,8 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+<img width="1600" height="724" alt="WhatsApp Image 2026-10-27 at 6 36 26 PM" src="https://github.com/user-attachments/assets/09128248-ea43-4232-aa2c-d232645dd065" />
+
 
 ---
 
