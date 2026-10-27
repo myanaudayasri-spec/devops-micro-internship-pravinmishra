@@ -68,7 +68,7 @@ Claude should never be allowed to run revoke-security-group-ingress directly bec
 
 **2. Which rule prevents Claude from claiming a finding that the report does not support?**
 
-Write your answer here.
+The evidence-based reporting rule prevents Claude from claiming findings that are not supported by the report. Claude must only report issues backed by actual evidence and must not make assumptions or invent findings.
 
 ---
 
