@@ -210,7 +210,7 @@ Bash executes the audit script and AWS CLI commands to collect information, chec
 
 **3. Why is estimating cost/risk impact something the AI adds on top of a plain PASS/FAIL script?**
 
-Write your answer here.
+A plain PASS/FAIL script only checks predefined conditions and reports whether they succeed or fail. Claude can interpret the results, explain the possible security and financial consequences, prioritize issues based on their severity, and suggest corrective actions. This provides additional context for decision-making while keeping important changes under human control.
 
 ---
 
