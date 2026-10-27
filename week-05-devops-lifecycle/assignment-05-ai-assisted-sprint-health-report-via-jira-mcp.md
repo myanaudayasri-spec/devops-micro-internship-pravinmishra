@@ -150,7 +150,7 @@ Add your screenshot here.
 
 Map this assignment to Gather → Analyze → Human Act → Verify from Week 3 Assignment 6. Which step did you perform manually in the browser, and why must that step stay human?
 
-Add your answer here
+Gather : The /sprint-health skill collected Jira sprint data, including issue statuses and story points. Analyze : Claude Code analyzed the data and generated a sprint health report without modifying Jira. Human Act : I manually moved a Jira ticket to Done in the browser to simulate a real board change. This step must stay human because important project decisions and changes require human judgment, authorization, and accountability. Verify : I ran /sprint-health again and checked that the report reflected the updated Jira status, confirming that the skill only reads and reports changes rather than modifying the board.
 
 ---
 
