@@ -126,7 +126,7 @@ Add your screenshot here.
 
 1. Which Jira MCP tools does this skill's allowed-tools list include, and which mutating tools (create issue, update issue, transition issue, add comment) does it deliberately exclude?
 
-Add your answer here
+The skill’s allowed-tools list includes read-only Jira tools, such as searching issues, retrieving issue details, viewing projects, and checking sprint or board information. It deliberately excludes mutating tools such as create issue, update issue, transition issue, and add comment to prevent unauthorized changes.
 
 2. Why does a Scrum Master need this restriction more than almost any other role in this course?
 
