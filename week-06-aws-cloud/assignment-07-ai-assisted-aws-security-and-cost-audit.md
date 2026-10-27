@@ -206,7 +206,7 @@ The skill has Bash, Read, and Grep permissions to execute audit scripts, read fi
 
 **2. What part is performed by Bash, and what part is performed by Claude?**
 
-Write your answer here.
+Bash executes the audit script and AWS CLI commands to collect information, check resources, and generate the audit report. Claude reads and analyzes the report, explains the findings in simple language, identifies potential risks, and recommends appropriate corrective actions for human review.
 
 **3. Why is estimating cost/risk impact something the AI adds on top of a plain PASS/FAIL script?**
 
