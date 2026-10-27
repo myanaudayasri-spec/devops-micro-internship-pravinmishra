@@ -34,7 +34,7 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+Asia Pacific (Mumbai) — ap-south-1
 
 ---
 
