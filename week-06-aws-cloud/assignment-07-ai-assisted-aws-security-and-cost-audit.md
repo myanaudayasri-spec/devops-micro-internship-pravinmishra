@@ -250,7 +250,10 @@ I executed the remediation command myself after reviewing Claude's recommendatio
 
 **4. Which phase of the Agentic Loop does the Bash script represent? Which phase does Claude's explanation represent? Which phase is you running the fix?**
 
-Write your answer here.
+. Gather: The Bash script collects AWS resource information and checks for security issues.
+. Analyze: Claude reviews the audit report, explains the findings, and recommends a suitable fix.
+. Human Act: I review the recommendation and execute the remediation command myself.
+. Verify: I run the audit script again to confirm that the security issue has been resolved.
 
 ---
 
