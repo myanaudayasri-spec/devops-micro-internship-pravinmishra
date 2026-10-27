@@ -102,7 +102,7 @@ Add your screenshot here.
 
 How did you confirm this was real board data and not something Claude guessed?
 
-Add your answer here
+I confirmed it was real board data because Claude retrieved the Sprint 1 issues directly from Jira using the configured Jira MCP server. The issue keys, summaries, statuses, and story points matched the actual Jira board rather than a manually generated list.
 
 ---
 
