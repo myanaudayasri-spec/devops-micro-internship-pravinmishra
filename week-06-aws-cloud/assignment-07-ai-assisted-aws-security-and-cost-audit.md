@@ -134,7 +134,7 @@ The checks array stores the AWS resource checks and their related commands or co
 
 **2. Why does every AWS CLI call in this script use `--query` and `--output text` instead of parsing raw JSON?**
 
-Write your answer here.
+The --query option extracts only the required information from the AWS response, while --output text returns the results in a simple text format. This makes the script easier to read, process, and compare, avoids unnecessary JSON parsing, and helps produce a clear audit report.
 
 **3. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
