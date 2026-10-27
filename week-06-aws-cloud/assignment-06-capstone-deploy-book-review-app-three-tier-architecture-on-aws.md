@@ -135,7 +135,14 @@ The final deployment was successful. The application was built successfully, dep
 
 **Tools/sources used:**
 
-Write your answer here.
+. Ubuntu on WSL2: Used to run Linux commands and manage the deployment environment.
+. Visual Studio Code: Used to view and edit project files.
+. React and npm: Used to build the application and generate production files.
+. Nginx: Used as the web server to host the deployed application.
+. Git and GitHub: Used for version control and repository management.
+. Linux terminal commands: Used commands such as cd, ls, npm run build, systemctl status nginx, and cp to troubleshoot and deploy the application.
+. Browser: Used to verify that the website loaded successfully.
+. Documentation and online resources: Used to understand build warnings, troubleshoot deployment errors, and resolve Nginx configuration issues.
 
 ---
 
