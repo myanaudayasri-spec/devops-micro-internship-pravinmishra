@@ -170,7 +170,7 @@ The overall status of my baseline AWS security audit was HEALTHY, indicating tha
 
 **2. Did any check return FAIL or WARN? If so, which one, and what evidence did it show?**
 
-Write your answer here.
+No checks returned FAIL or WARN. All configured checks passed, and the audit report did not identify any warnings or failures.
 
 **3. If every check passed, what does that tell you about the security posture of your account so far?**
 
