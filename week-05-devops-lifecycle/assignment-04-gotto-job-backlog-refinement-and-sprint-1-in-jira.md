@@ -28,7 +28,7 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+PO (Product Owner): Prioritized the most important website improvements based on user needs and assignment requirements. SM (Scrum Master): Ensured the process by tracking Jira tasks, updating statuses, and maintaining daily Scrum progress. Dev Lead (Development Lead): Built the website UI improvements, including the polished footer, CTA, and deployment date display. DevOps Lead: Shipped the changes to the AWS EC2 server, verified the live website, and captured deployment screenshots as evidence.
 
 ---
 
