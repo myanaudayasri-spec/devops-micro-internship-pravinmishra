@@ -234,7 +234,7 @@ The Application Load Balancer (ALB) distributes incoming traffic across healthy 
 
 Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+The Amazon RDS database is deployed in private subnets across two Availability Zones using a Multi-AZ configuration. The database is not directly accessible from the public internet. A standby database provides high availability, and RDS can automatically fail over to the standby instance if the primary database experiences a failure.
 
 Summarize the results of both high-availability tests.
 
