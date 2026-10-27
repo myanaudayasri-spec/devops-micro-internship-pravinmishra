@@ -64,7 +64,7 @@ Add your screenshot here.
 
 **1. Why should Claude never be given permission to run `revoke-security-group-ingress` itself, even if the fix is obviously correct?**
 
-Write your answer here.
+Claude should never be allowed to run revoke-security-group-ingress directly because it removes inbound access rules from an AWS Security Group and could accidentally block legitimate traffic or disrupt application connectivity. A human must review and approve the change before executing it to ensure security and prevent unintended outages.
 
 **2. Which rule prevents Claude from claiming a finding that the report does not support?**
 
