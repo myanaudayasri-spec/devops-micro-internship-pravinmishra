@@ -66,7 +66,9 @@ Add your screenshot here.
 
 Why must JIRA_API_TOKEN live in settings.local.json and never in .mcp.json?
 
-Add your answer here
+. settings.local.json: Stores the API token locally, where it can be kept out of shared configuration and excluded from Git.
+. .mcp.json: Defines the MCP server setup, such as the uvx command, arguments, and environment variable references. It should not contain the actual secret.
+Task 4 — Verify
 
 ---
 
