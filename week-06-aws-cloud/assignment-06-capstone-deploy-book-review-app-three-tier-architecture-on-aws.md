@@ -119,7 +119,7 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The final deployment was successful. The application was built successfully, deployed to the Ubuntu server, and served through Nginx. The Nginx service was running, and the website returned an HTTP 200 status code, confirming that the application was accessible through the browser. The deployment was verified by checking the build output, copying the application files into /var/www/html/, and testing the website locally.
 
 ---
 
