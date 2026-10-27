@@ -130,7 +130,7 @@ Add your screenshot here.
 
 **1. What is stored in the checks array, and how does the loop use it?**
 
-Write your answer here.
+The checks array stores the AWS resource checks and their related commands or conditions. The loop processes each check one by one, executes the corresponding AWS CLI command, examines the result, and records whether the check passes, produces a warning, or fails.
 
 **2. Why does every AWS CLI call in this script use `--query` and `--output text` instead of parsing raw JSON?**
 
