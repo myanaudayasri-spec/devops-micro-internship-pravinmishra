@@ -246,7 +246,7 @@ I restricted the new rule to my own public IP address to reduce the risk of unau
 
 **3. Did Claude execute the remediation command, or did you? Why does that matter?**
 
-Write your answer here.
+I executed the remediation command myself after reviewing Claude's recommendation. This matters because a human must verify and approve security changes before applying them. Keeping remediation under human control prevents unintended changes, accidental access restrictions, and service disruptions.
 
 **4. Which phase of the Agentic Loop does the Bash script represent? Which phase does Claude's explanation represent? Which phase is you running the fix?**
 
