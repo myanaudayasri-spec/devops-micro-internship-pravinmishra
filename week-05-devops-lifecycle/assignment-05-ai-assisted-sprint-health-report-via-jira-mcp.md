@@ -26,7 +26,7 @@ Add your screenshot here.
 
 Why does the MCP server need your site URL and account email in addition to the token?
 
-Add your answer here
+The Jira site URL tells the MCP server where your Jira is hosted, and the account email identifies your Jira user account. The API token authenticates your account and allows access to Jira based on your permissions.
 
 ---
 
