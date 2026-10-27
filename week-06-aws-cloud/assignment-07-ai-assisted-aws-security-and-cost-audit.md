@@ -42,7 +42,7 @@ Add your screenshot here.
 
 **2. Why must you confirm your resources exist before writing an audit script against them?**
 
-Write your answer here.
+We must confirm that the resources exist before writing an audit script to ensure that the script uses the correct resource IDs, names, and configurations. This prevents errors, false audit results, and unnecessary debugging. It also helps ensure that the script checks the actual AWS infrastructure created during the assignments rather than resources that do not exist or belong to a different AWS Region.
 
 ---
 
