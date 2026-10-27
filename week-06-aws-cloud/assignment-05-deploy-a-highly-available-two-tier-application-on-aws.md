@@ -226,7 +226,7 @@ Add your screenshot here.
 
 Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+The VPC provides an isolated network environment for the application. It spans two Availability Zones to improve availability and fault tolerance. Public subnets host the Application Load Balancer, while private subnets host the application servers and database resources. Using two Availability Zones helps the application remain available if one zone experiences a failure.
 
 Summarize the ALB and Auto Scaling Group setup.
 
