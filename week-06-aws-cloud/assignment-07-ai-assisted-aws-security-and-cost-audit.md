@@ -38,7 +38,7 @@ Add your screenshot here.
 
 **1. Which resources from this week's earlier assignments did you see in the listings?**
 
-Write your answer here.
+ I saw the AWS resources created during the earlier assignments, including the VPC, public and private subnets across two Availability Zones, Internet Gateway, route tables, Application Load Balancer (ALB), Auto Scaling Group, EC2 instances, security groups, and Amazon RDS database. These listings helped me verify which resources were available in my AWS account and confirm their names, IDs, and configurations.
 
 **2. Why must you confirm your resources exist before writing an audit script against them?**
 
