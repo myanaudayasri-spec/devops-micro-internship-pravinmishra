@@ -125,7 +125,11 @@ The final deployment was successful. The application was built successfully, dep
 
 **Issues + fixes:**
 
-Write your answer here.
+1. Incorrect directory: Git commands initially failed because I was working in the wrong directory. I fixed this by navigating to the correct project repository.
+2. Build warnings: The React build displayed an outdated Browserslist database warning. The build still completed successfully.
+3. Nginx deployment issue: The website initially returned an HTTP 500 error. I rebuilt the React application and copied the latest build files into /var/www/html/.
+4. Missing backup directory: The command to rename /var/www/html failed because the directory did not exist at that time. I checked the deployment directory and proceeded with the correct deployment steps.
+5. Final verification: After fixing the deployment issues, I checked the Nginx service status and tested the website. Nginx was active, and the website returned HTTP 200.
 
 ---
 
