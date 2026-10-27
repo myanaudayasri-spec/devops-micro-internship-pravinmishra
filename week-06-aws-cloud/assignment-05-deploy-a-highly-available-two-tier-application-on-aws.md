@@ -238,7 +238,9 @@ The Amazon RDS database is deployed in private subnets across two Availability Z
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+Test 1 – EC2 Instance Failure: When an application instance became unhealthy or failed, the ALB stopped routing traffic to that instance. The Auto Scaling Group launched a replacement instance to maintain the desired capacity. The application remained available through the healthy instances.
+
+Test 2 – RDS Failover: When a database failover was triggered, Amazon RDS switched to the standby database in the other Availability Zone. Database connectivity may have been interrupted briefly during the failover, but the Multi-AZ setup helped restore database availability without requiring a manual database replacement.
 
 ---
 
