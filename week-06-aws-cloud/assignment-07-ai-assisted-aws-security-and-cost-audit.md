@@ -166,7 +166,7 @@ Add your screenshot here.
 
 **1. What is the overall status of your baseline audit?**
 
-Write your answer here.
+The overall status of my baseline AWS security audit was HEALTHY, indicating that all configured checks completed successfully and no issues were detected by the audit script.
 
 **2. Did any check return FAIL or WARN? If so, which one, and what evidence did it show?**
 
