@@ -202,7 +202,7 @@ Add your screenshot here.
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Write your answer here.
+The skill has Bash, Read, and Grep permissions to execute audit scripts, read files, and search for relevant information. It does not have Write permission because the skill should only inspect and analyze results, not modify files or make unauthorized changes. This follows the principle of least privilege and improves safety.
 
 **2. What part is performed by Bash, and what part is performed by Claude?**
 
