@@ -90,7 +90,7 @@ Add your screenshot here.
 
 **1. Which part of this task represents the Gather phase?**
 
-Write your answer here.
+The Gather phase involves collecting information about AWS resources using read-only AWS CLI commands such as describe-, get-, and list-. These commands help Claude inspect the existing AWS infrastructure and gather the evidence needed to identify potential security issues without modifying any resources.
 
 **2. Did every proposed command start with `describe-`, `get-`, or `list-`? Why does that matter?**
 
