@@ -230,7 +230,7 @@ The VPC provides an isolated network environment for the application. It spans t
 
 Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+The Application Load Balancer (ALB) distributes incoming traffic across healthy EC2 instances in both Availability Zones. The Auto Scaling Group automatically maintains the desired number of instances and can launch replacement instances when existing instances fail. This setup improves application availability, reliability, and scalability.
 
 Summarize the private Multi-AZ RDS setup.
 
