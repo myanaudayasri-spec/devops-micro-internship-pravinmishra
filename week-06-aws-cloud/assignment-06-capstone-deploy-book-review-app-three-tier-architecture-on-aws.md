@@ -40,7 +40,12 @@ Asia Pacific (Mumbai) — ap-south-1
 
 **Services:**
 
-Write your answer here.
+. Networking: Amazon VPC, Subnets, Internet Gateway, Route Tables, NAT Gateway.
+. Compute: Amazon EC2, EC2 Auto Scaling Group, Launch Template.
+. Load Balancing: Elastic Load Balancing (Application Load Balancer), Target Groups.
+. Security: AWS IAM, Security Groups.
+. Database: Amazon RDS (Multi-AZ deployment).
+. Monitoring and Cost Management: Amazon CloudWatch, AWS Budgets, and Budget Alerts.
 
 ---
 
