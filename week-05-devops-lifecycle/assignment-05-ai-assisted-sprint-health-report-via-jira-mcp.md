@@ -46,7 +46,7 @@ Add your screenshot here.
 
 Compare this jira block to the github block from Week 2 Assignment 5. The GitHub server ran via npx (a Node.js package); this one runs via uvx (a Python package) — what stays exactly the same shape despite that difference, and why doesn't Claude Code care which language a given MCP server is written in?
 
-Add your answer here
+Both blocks follow the same MCP configuration structure: server name, command, arguments, and environment variables. The difference is npx for Node.js and uvx for Python. Claude Code doesn’t care which language the server uses because MCP provides a standardized communication protocol between the client and server.
 
 ---
 
