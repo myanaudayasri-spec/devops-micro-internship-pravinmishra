@@ -130,7 +130,7 @@ The skill’s allowed-tools list includes read-only Jira tools, such as searchin
 
 2. Why does a Scrum Master need this restriction more than almost any other role in this course?
 
-Add your answer here
+A Scrum Master must monitor sprint progress and report team health without making unauthorized changes to Jira. This restriction protects the backlog, sprint status, and team records while ensuring that changes are made only with human approval.
 
 ---
 
