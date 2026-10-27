@@ -94,7 +94,7 @@ The Gather phase involves collecting information about AWS resources using read-
 
 **2. Did every proposed command start with `describe-`, `get-`, or `list-`? Why does that matter?**
 
-Write your answer here.
+Yes, every proposed command started with describe-, get-, or list-. This matters because these commands are used to retrieve information without changing AWS resources. Using read-only commands keeps the audit safe and prevents accidental modifications or disruptions to the infrastructure.
 
 ---
 
