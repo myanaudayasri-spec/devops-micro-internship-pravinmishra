@@ -242,7 +242,7 @@ I fixed the security group finding that allowed unrestricted inbound access from
 
 **2. Why did you scope the new rule to your own IP address instead of leaving it open to `0.0.0.0/0`?**
 
-Write your answer here.
+I restricted the new rule to my own public IP address to reduce the risk of unauthorized access. The CIDR 0.0.0.0/0 allows connections from any IPv4 address, which can expose resources to potential attacks. Limiting access to my IP follows the principle of least privilege and improves security.
 
 **3. Did Claude execute the remediation command, or did you? Why does that matter?**
 
