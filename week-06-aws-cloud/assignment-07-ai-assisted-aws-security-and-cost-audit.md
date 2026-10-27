@@ -238,7 +238,7 @@ Add your screenshot here.
 
 **1. Which exact finding did you fix, and what command did you run?**
 
-Write your answer here.
+I fixed the security group finding that allowed unrestricted inbound access from 0.0.0.0/0. I used the AWS CLI command authorize-security-group-ingress to add a more restrictive inbound rule that allows access only from my own public IP address.
 
 **2. Why did you scope the new rule to your own IP address instead of leaving it open to `0.0.0.0/0`?**
 
