@@ -138,7 +138,7 @@ The --query option extracts only the required information from the AWS response,
 
 **3. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Write your answer here.
+The script uses different exit codes to communicate the audit results clearly. HEALTHY indicates that all checks passed, WARN indicates that some issues need attention, and FAIL indicates a serious problem or a failed check. These exit codes help users and automated tools identify the system's status and decide whether further investigation or corrective action is required.
 
 ---
 
