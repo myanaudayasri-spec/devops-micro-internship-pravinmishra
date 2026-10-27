@@ -98,7 +98,7 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+Each story was estimated based on its complexity, implementation effort, and testing required. In Solo Mode, I considered alternative point values and selected the estimate that best matched the work involved.
 
 ---
 
