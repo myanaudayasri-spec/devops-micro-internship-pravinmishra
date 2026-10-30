@@ -76,6 +76,7 @@ Break down S2 (Primary button color refresh) and S4 (Footer with version and dat
 
 <img width="1920" height="1200" alt="Screenshot 2026-10-30 124340" src="https://github.com/user-attachments/assets/3d8abb5b-3ba1-4327-b30f-9bc4f605448f" />
 
+<img width="1920" height="1200" alt="Screenshot 2026-10-30 124352" src="https://github.com/user-attachments/assets/a0012408-250f-4d49-82ad-79dafdc037de" />
 
 ---
 
