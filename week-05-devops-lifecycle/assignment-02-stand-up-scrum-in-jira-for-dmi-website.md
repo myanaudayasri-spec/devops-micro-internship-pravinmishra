@@ -52,6 +52,7 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 <img width="1905" height="907" alt="Screenshot 2026-10-30 123444" src="https://github.com/user-attachments/assets/b4d82a93-b176-4e60-bfee-6af994c8253e" />
 
+<img width="1902" height="891" alt="Screenshot 2026-10-30 123457" src="https://github.com/user-attachments/assets/d24a92cb-9cfa-47a0-8f1b-d6f1bc9bc434" />
 
 
 ---
