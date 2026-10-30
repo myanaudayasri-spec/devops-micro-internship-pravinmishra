@@ -35,7 +35,8 @@ Create the Epic `Polish DMI Website UI & Deploy` to group the website UI and dep
 
 #### Screenshot 2 — Backlog showing the Epic panel enabled and the Epic visible
 
-Add your screenshot here.
+<img width="1905" height="906" alt="Screenshot 2026-10-30 123151" src="https://github.com/user-attachments/assets/15c64b43-6c94-44bb-8a07-19209c9c2a8e" />
+
 
 ---
 
