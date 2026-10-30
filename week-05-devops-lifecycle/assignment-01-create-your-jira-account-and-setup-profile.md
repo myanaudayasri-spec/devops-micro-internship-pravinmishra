@@ -81,7 +81,8 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+<img width="1908" height="860" alt="Screenshot 2026-10-30 122516" src="https://github.com/user-attachments/assets/92929fd7-55c7-4708-905b-67e3a5ab4f37" />
+
 
 ---
 
