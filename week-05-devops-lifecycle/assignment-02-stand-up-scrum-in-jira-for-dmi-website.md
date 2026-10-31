@@ -100,6 +100,7 @@ Apply the `frontend` label to S1, S2, S3, S5, and S6, and the `devops` label to 
 
 <img width="1920" height="1200" alt="Screenshot 2026-10-31 212659" src="https://github.com/user-attachments/assets/ed114d16-e9c8-488b-9176-9d0bf9120c89" />
 
+<img width="1920" height="1200" alt="Screenshot 2026-10-31 213237" src="https://github.com/user-attachments/assets/27aec106-853a-4c4b-9ee9-e4dfa35604fc" />
 
 ---
 
